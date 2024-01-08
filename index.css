@@ -1,3 +1,8 @@
+body{
+    font-family: 'Lato' , sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
 .img{
     
     max-width: 100%;
@@ -10,13 +15,14 @@
    
 }
 .bannar-txt{
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    padding-right: 50000px;
     position: absolute;
-    top: 20%;
     color: #FFF;
-    padding: 25px;
-    text-align: center; 
-    width: 632px;
-   
+    border-right: 500px;
+    
 }
 
 .txt{
@@ -91,13 +97,11 @@ background: #F00;
     grid-gap: 50px;
     display: flex;
     border-radius: 16px; 
+    grid-gap: 1.5em;
 
 }
 
-.hny{
-    padding-left: 30%;
-    margin-top: 600px;
-}
+
 .year{
     padding-left: 30%;
     margin-top: 600px;
@@ -115,6 +119,9 @@ background: #F00;
     
 
 }
+.column-titel{
+    color: #F00; 
+}
 .contact textarea, .contact input[type="Email"]{
     
     margin-bottom: 25px;
@@ -124,6 +131,11 @@ background: #F00;
     background: #FFF;
     border: 0;
     
+}
+.bo{
+    color: #F00;
+    font-size: 48px; 
+
 }
 footer{
     display: flex;
@@ -171,4 +183,24 @@ background: rgba(255, 0, 0, 0.05);
 
 background: #FFF;
 width: min-content;
+}
+.section{
+
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+justify-content: space-around;
+}
+.holi{
+
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal; 
+}
+.black{
+    color: black
+    
 }

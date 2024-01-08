@@ -47,19 +47,22 @@ font-size: 90px;
 
 }
 .heading{
-    font-size: 80px; 
+    font-size: 70px; 
     color: #F00; 
     
 }
 .titel{
     color: #F00;
-margin: 500px;
+margin: 25px;
+
 
 }
 .about-info-container{
     justify-content: space-around;
+    font-size: 32px;
     fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
 }
+
 .about-info{
     text-align: center;
     
@@ -139,10 +142,16 @@ background: #F00;
 }
 footer{
     display: flex;
-    background: #FFF8F3;
+    background: #070211;;
     margin-top: 50px;
     padding: 100px ;
     gap: 100px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
     
 }
 .container{
@@ -152,7 +161,7 @@ footer{
 .about-info-container{
     border-radius: 16px;
 background: rgba(255, 0, 0, 0.05);
-    
+text-transform: capitalize; 
 }
 .div{
     max-width: 1150px;
@@ -170,7 +179,11 @@ background: rgba(255, 0, 0, 0.05);
     margin: 0 1500px;
 }
 .img3{
-    margin-top: 50px;
+    margin-bottom: 0;
+    width: 550px;
+}
+.img4{
+    
 }
 .design{
     border-radius: 50%;
@@ -203,4 +216,14 @@ justify-content: space-around;
 .black{
     color: black
     
+}
+.header{
+
+    background-image: url( /Rectangle\ 2.png);
+}
+.orange{
+    color: #F00; 
+}
+.por{
+    font-size: 75px; 
 }

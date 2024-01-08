@@ -96,3 +96,26 @@ margin: 500px;
     border: 0;
     
 }
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 50px;
+    padding: 100px ;
+    gap: 100px;
+    
+}
+.container{
+    display: flex;
+    gap: 50px;
+}
+.div{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.div2{
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.img3{
+    margin-top: 50px;
+}

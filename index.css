@@ -126,6 +126,18 @@ background: #F00;
     
 
 }
+.btn1{
+    border-radius: 8px; 
+    background: #F00;
+    border: 0;
+    font-weight: 700; 
+    font-size: 20px;
+    padding: 16px 32px; 
+    color: aliceblue;
+    margin-bottom: 500px;
+    
+
+}
 .column-titel{
     color: #F00; 
 }

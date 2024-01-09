@@ -72,6 +72,10 @@ margin: 25px;
     
     
 }
+.about{
+    background-image: linear-gradient(180deg,rgba(255, 0, 0,0.10)0%,rgba(255,0,0,0.00)100%);
+
+}
 .info-titel{
     text-transform: capitalize; 
     font-family: Inter; 
@@ -158,7 +162,7 @@ footer{
 background: rgba(255, 0, 0, 0.05);
 text-transform: capitalize; 
 }
-.div{
+main{
     max-width: 1150px;
     margin: 0 auto;
     
@@ -177,9 +181,7 @@ text-transform: capitalize;
     margin-bottom: 0;
     width: 550px;
 }
-.img4{
-    
-}
+
 .design{
     border-radius: 50%;
     border: 15px solid #F00;
@@ -245,6 +247,7 @@ margin: 0px 1000px 10px 0px;
     font-weight: 500;
     line-height: 40px;
     padding: 140px 300px 50px 140px;
+    margin: 0;
 }
 .ph, a{
 
@@ -269,5 +272,53 @@ margin: 0px 1000px 10px 0px;
     color: #FFF;
     padding-top: 50px;
 }
+.bannar2-txt{
+    position: absolute;
+    top: 25%;
+    color: #FFF;
+    padding-top: 1400px;
+    padding-left: 1700px;
+}
+.bannar2-para{
+    position: absolute;
+    top: 25%;
+    color: #FFF;
+    padding-top: 1780px;
+    padding-left: 1700px;
+    font-size: 29px;
+}
 
 
+
+
+#women{
+    margin-left: 1150px;
+}
+#carpet{
+    margin-top: -50px;
+    margin-left: 259px;
+    white-space: 9px;
+    
+}
+#gift{
+    width: 500px;
+    margin-top: -600px;
+    margin-left: 350px;
+}
+.discount{
+  margin-top: -1500px;
+  margin-left: 940px;
+  position: relative;
+  width: 206.841px;
+  height: 206.841px; 
+  
+}
+
+.subcribe{
+    width: 1320px;
+    height: 616px;
+    
+    background: rgba(255, 0, 0, 0.05);
+    
+    
+}

@@ -18,10 +18,10 @@ body{
     text-align: center;
     font-family: Inter;
     font-size: 40px;
-    padding-right: 50000px;
+    padding-right: 200px 344px 177px 344px;
     position: absolute;
     color: #FFF;
-    border-right: 500px;
+    
     
 }
 
@@ -217,13 +217,26 @@ justify-content: space-around;
     color: black
     
 }
-.header{
 
-    background-image: url( /Rectangle\ 2.png);
-}
 .orange{
     color: #F00; 
 }
 .por{
     font-size: 75px; 
+}
+header{
+   
+   border-radius: 50px;
+   background-position: center;
+    
+}
+.ft{
+font-size: 32px;
+font-weight: 400;
+margin: 0px 1000px 10px 0px;
+}
+.st{
+    font-size: 72px;
+    font-weight: 900;
+    margin: 0px;
 }

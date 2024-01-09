@@ -184,8 +184,9 @@ text-transform: capitalize;
     border-radius: 50%;
     border: 15px solid #F00;
     width: min-content;
-
+    padding: 10px;
 }
+
 .frm{
     border-radius: 0px 50px 50px 0px;
 
